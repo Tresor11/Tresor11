@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi Devs 👋
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Tresor, a Full-Stack RoR & React developer who loves to make web apps with intuitive UI. I love to share what I learn.
+I am currently looking for new opportunities if you have a project for me or just want to collab with me feel free to connect with me.
+     <br><br>Contact me on <a href="https://twitter.com/surjithctly">Twitter</a> or <a href="https://twitter.com/surjithctly">LinkedIn</a>
+  </samp>
+</p>
 
 <!--
-**Tresor11/Tresor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**surjithctly/surjithctly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
