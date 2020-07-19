@@ -6,7 +6,7 @@
   <samp>
 I'm Tresor, a Full-Stack RoR & React developer who loves to make web apps with intuitive UI. I love to share what I learn.
 I am currently looking for new opportunities if you have a project for me or just want to collab with me feel free to connect with me.
-     <br><br>Contact me on <a href="https://twitter.com/surjithctly">Twitter</a> or <a href="https://twitter.com/surjithctly">LinkedIn</a>
+     <br><br>Contact me on <a href="https://twitter.com/TBireke">Twitter</a> or <a href="https://www.linkedin.com/in/tresor-bireke/">LinkedIn</a>
   </samp>
 </p>
 
