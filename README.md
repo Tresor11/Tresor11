@@ -4,9 +4,9 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Tresor, a Full-Stack RoR & React developer who loves to make web apps with intuitive UI. I love to share what I learn.
+I'm Tresor, a Full-Stack RoR & React developer who loves creating useful products. I love working on open-source projects and sharing what I learn.
 Feel free to connect with me.
-     <br><br>Contact me on <a href="https://twitter.com/TBireke">Twitter</a> or <a href="https://www.linkedin.com/in/tresor-bireke/">LinkedIn</a>
+     <br><br><a href="https://twitter.com/TBireke">Twitter</a> || <a href="https://www.linkedin.com/in/tresor-bireke/">LinkedIn</a>
   </samp>
 </p>
 
