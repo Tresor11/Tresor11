@@ -7,7 +7,7 @@
 I'm Tresor, a Software developer at thoughtbot, I love creating useful products and trying new technologies. 
 In my free time, I enjoy working on open-source projects and sharing what I learn.
 Feel free to connect with me.
-     <br><br><a href="https://twitter.com/TBireke">Twitter</a> || <a href="https://www.linkedin.com/in/tresor-bireke/">LinkedIn</a> || <a href="https://tresor.netlify.app/">Website</a>
+     <br><br> <a href="https://tresor.netlify.app/">Website</a> || <a href="https://www.linkedin.com/in/tresor-bireke/">LinkedIn</a> || <a href="https://twitter.com/TBireke">Twitter</a>
   </samp>
 </p>
 
